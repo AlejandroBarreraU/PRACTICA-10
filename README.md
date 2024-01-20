@@ -97,7 +97,10 @@ void callback(char* topic, byte* payload, unsigned int length) {
      Topic: alejandro123
 
 ## Resultados
-![]()
-![]()
+
+![](https://github.com/AlejandroBarreraU/PRACTICA-10/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2020_01_2024%2012_09_07%20p.%20m..png?raw=true)
+![](https://github.com/AlejandroBarreraU/PRACTICA-10/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2020_01_2024%2012_12_26%20p.%20m..png?raw=true)
+![](https://github.com/AlejandroBarreraU/PRACTICA-10/blob/main/SENSOR%20DE%20PRESI%C3%93N%20-%20Google%20Chrome%2020_01_2024%2012_12_47%20p.%20m..png?raw=true)
+
 ## Créditos
 Elaborado por el Ing. Alejandro Barrera
